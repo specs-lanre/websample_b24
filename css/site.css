@@ -1,0 +1,152 @@
+.main_header{text-align:center;
+border:solid 0px #360164;
+background:url('../images/bck1.jpeg');
+background-size:cover;}
+.cover{background:rgba(58,2,111,0.8);}
+nav a{color:white;text-decoration:none;padding:10px 20px;
+}
+nav a:hover{color:#360164;background:white;}
+
+.title{color:#33FFF6;font-size:50px;
+font-family:calibri;font-weight:bolder;padding-top:200px;}
+.subtitle{color:#E18904;font-size:25px;}
+.header_link{margin-top:25px;padding-bottom:200px;}
+.header_link a{text-decoration:none;width:150px;
+font-size:24px;background:#0499E1;color:white;
+display:inline-block;padding:11px;}
+
+/*about*/
+
+.title_about{color:#33FFF6;font-size:50px;
+font-family:calibri;font-weight:bolder;padding-top:30px;}
+
+.header_link_about{margin-top:10px;padding-bottom:30px;}
+.right_about{line-height:30px;font-size:24px;
+width:45%;}
+.right_about img{margin-top:150px;width:95%;}
+
+.left_about{line-height:30px;font-size:24px;
+width:55%;padding:50px;text-align:justify;}
+.about_images{display:flex;padding:50px;}
+.about_images img{width:250px;}
+.about_images div{width:27%;height:300px;margin:20px;
+border:solid 4px lightgray;}
+
+.about_images .about-text{width:60%;border:none;
+height:20%;padding:30px;color:#33FFF6;
+font-size:30px;background:rgba(58,2,111,0.8);}
+
+
+/*Shop*/
+.shop-section{display:flex;padding:40px;}
+.shop-item{width:25%;padding:20px;margin:10px}
+.shop-image{border:solid 2px lightgray;width:300px;
+height:300px;text-align:center;padding-top:40px;}
+.shop-text{padding:20px;font-weight:bolder;}
+.shop-cover{background:rgba(58,2,111,0.8);width:200px;
+height:200px;opacity:0.1;text-align:center;
+padding-top:80px;
+display:inline-block;cursor:pointer;}
+.intext{color:white;font-size:20px;display:inline-block;
+width:70%;text-align:center;margin:10px;}
+.shop-cover:hover{opacity:0.8;}
+
+
+
+
+/*body */
+._main{text-align:center;
+border:solid 0px #360164;
+
+background:url('../images/tv.jpg');
+background-size:cover;
+}
+
+.content{display:flex;justify-content:center;
+padding:25px;}
+.left{line-height:30px;font-size:24px;
+width:45%;padding:100px;text-align:justify;}
+.right{line-height:30px;font-size:24px;
+width:45%;}
+
+
+.section_head{font-size:40px;padding:20px;
+text-align:center;}
+.key_services{display:flex;justify-content:center;
+padding:25px;margin:40px 0px;}
+
+.section_title{font-size:30px;padding:20px;
+text-align:center;}
+.section_item{margin:20px 10px;
+text-align:center;}
+.section_item img{width:120px;}
+
+/*services*/
+.service_title{font-size:30px;padding:20px;
+text-align:center;display:inline-block;width:50%;}
+.services-item{text-align:center;
+padding:20px;margin:20px 0px;
+display:flex;justify-content:center;}
+.services-item .txt{
+display: flex;align-items: center;
+border:solid 0px lightgray;margin:5px 10px;
+}
+
+.services-item  a{text-align:center;
+text-decoration:none;font-size:1.3em;
+padding:10px;margin:10px 0px;width:120px;
+color:white;background:#360164;}
+
+.services-item  img{margin:20px;}
+.services-item  a:hover{color:#360164;
+background:white;}
+
+
+/*services request form*/
+.form_item{padding:10px;margin:11px 0px;}
+.form_item label{padding:11px;margin:5px 0px;
+font-size:22px;width:200px;display:inline-block;
+text-align:right;}
+
+.form_item input{padding:7px;margin:5px 0px;
+font-size:22px;width:400px;display:inline-block;
+border:lightblue 1px solid;border-radius:15px;}
+
+.form_item_options label{padding:11px;margin:5px 0px;
+font-size:22px;width:200px;display:inline-block;
+text-align:right;}
+.form_item_options input{padding:11px;margin:5px;
+display:inline-block;outline:4px solid lightblue;
+border-radius:15px;width:20px;height:20px}
+
+
+/*contact*/
+.section_contact{padding:40px;text-align:center;}
+.contact_item{display:inline-block;text-align:center;}
+.contact_item img{margin:10px;}
+
+.contact_text{display:flex;align-items:center;
+margin:20px;font-size:1.5em;line-height:25px;}
+
+/*footer*/
+.footer{display:flex;justify-content: center;
+padding:25px;background:#450146;}
+.footer_section{padding:40px 0px;margin:0px 10px;
+width:;color:#f6fafa;}
+
+.footer_about{padding:5px;margin:5px;
+width:250px;}
+
+
+.socials{overflow:hidden;margin:10px 0px;
+display:inline-block;width:280px;
+height:auto;}
+.socials img{width:25px;margin:5px;cursor:pointer;}
+.socials img:hover{width:30px;margin:0px;}
+
+.footer_links span{display:block;margin:5px 0px;}
+.copyright{text-align:center;
+color:white;font-weight:bolder;
+background:black;padding:40px 0px;}
+
+
